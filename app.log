@@ -1,0 +1,992 @@
+10:41:43.581 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+10:41:43.584 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+10:41:43.584 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le r�sultat 8
+10:48:38.354 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+10:48:38.358 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+10:48:38.358 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+10:48:38.358 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le r�sultat 8
+11:07:44.886 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:07:44.886 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:07:44.886 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:08:12.888 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:08:13.044 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:08:13.044 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:18:53.463 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:18:53.479 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:18:53.479 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:19:05.778 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:19:05.778 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:19:05.778 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:20:24.538 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le r�sultat 8
+11:21:56.852 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:21:56.852 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:21:56.852 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:21:56.852 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le r�sultat 8
+11:42:34.495 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:42:34.495 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:42:34.495 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:42:34.495 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le r�sultat 8
+11:42:34.495 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:42:34.495 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:42:34.495 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:44:13.539 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:44:13.539 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:44:13.539 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:44:13.539 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le r�sultat 8
+11:44:13.539 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:44:13.539 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:44:13.539 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:45:27.942 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:45:27.942 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:45:27.942 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:45:27.942 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le r�sultat 8
+11:45:27.942 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:45:27.942 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:45:27.942 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:48:16.375 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:48:16.375 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:48:16.375 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:48:16.375 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le r�sultat 8
+11:48:16.375 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:48:16.375 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:48:16.375 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:48:55.382 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:48:55.382 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:48:55.382 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:48:55.382 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le r�sultat 8
+11:48:55.382 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:48:55.382 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:48:55.382 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:52:52.185 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:52:52.201 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:52:52.201 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:52:52.201 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:52:52.201 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:52:52.201 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:52:52.201 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression null
+11:53:03.990 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:53:03.990 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:53:03.990 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:53:03.990 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:53:03.990 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:53:03.990 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:53:03.990 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 
+11:54:19.188 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:54:19.188 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:54:19.188 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:54:19.188 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:54:19.188 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:54:19.188 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:54:19.188 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 
+11:54:50.056 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:54:50.056 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:54:50.056 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:54:50.056 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:54:50.056 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:54:50.056 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:54:50.056 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 
+11:55:10.829 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:55:10.829 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:55:10.829 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:55:10.829 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:55:10.829 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:55:10.829 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:55:10.829 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 
+11:55:30.714 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:55:30.729 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:55:30.729 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:55:30.729 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:55:30.729 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:55:30.729 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:55:30.729 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 
+11:55:48.907 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:55:48.907 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:55:48.907 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:55:48.907 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:55:48.907 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:55:48.907 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:55:48.907 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 
+11:56:10.478 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:56:10.478 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:56:10.478 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:56:10.478 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:56:10.478 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:56:10.478 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:56:10.478 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression null
+11:56:26.147 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:56:26.147 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:56:26.147 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:56:26.147 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:56:26.147 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:56:26.147 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:56:26.147 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 
+11:56:54.849 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:56:54.849 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:56:54.849 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:56:54.849 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:56:54.849 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:56:54.849 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:56:54.849 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression null
+11:57:16.802 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:57:16.802 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:57:16.802 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:57:16.802 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:57:16.802 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:57:16.802 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:57:16.802 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression null
+11:58:30.009 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:58:30.012 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:58:30.013 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+11:58:30.013 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+11:58:30.013 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+11:58:30.013 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+11:58:30.013 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression null
+12:00:06.577 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+12:00:06.579 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+12:00:06.580 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+12:00:06.580 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+12:00:06.580 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+12:00:06.580 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+12:00:06.580 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 
+12:02:51.528 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+12:02:51.544 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+12:02:51.544 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+12:02:51.544 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+12:02:51.544 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+12:02:51.544 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+12:02:51.544 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 
+12:08:24.698 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donné, une instance de la classe CalculService
+12:08:24.698 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'évalue l'addition de l'expression 1+3+4
+12:08:24.698 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+12:08:24.698 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le résultat 8
+12:08:24.761 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+12:08:24.761 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+12:08:24.761 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 1+3+4
+12:08:24.761 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+12:08:24.761 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+12:08:24.761 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+12:08:24.761 [main] DEBUG dev.service.CalculService -
+
+Evaluation de l'expression 
+12:15:49.334 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:32:02.642 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:32:02.648 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:32:02.648 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+13:32:02.664 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:34:18.005 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:34:18.020 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:34:18.020 [main] INFO  dev.console.App -
+
+1+34
+13:34:18.020 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+13:34:18.036 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:35:59.580 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:35:59.596 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:35:59.596 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+13:35:59.596 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+13:35:59.643 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:36:34.564 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:36:34.580 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:36:34.580 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 
+13:36:34.580 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+13:36:34.627 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:43:16.161 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:43:16.177 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:43:16.177 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+13:43:16.177 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+13:43:16.208 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:43:16.208 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:43:16.208 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:43:16.224 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 
+13:43:16.224 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+13:46:32.413 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:46:32.413 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:46:32.413 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+13:46:32.428 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+13:46:32.460 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:46:32.460 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:46:32.460 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:46:32.460 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 
+13:46:32.460 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+13:46:57.075 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:46:57.091 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:46:57.091 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+13:46:57.091 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+13:46:57.122 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:46:57.122 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:46:57.122 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:46:57.122 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 
+13:46:57.122 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+13:48:41.372 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:48:41.372 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:48:41.372 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+13:48:41.388 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+13:48:41.419 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:48:41.419 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:48:41.419 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:48:41.419 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 
+13:57:15.792 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:57:15.808 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:57:15.808 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+13:57:15.808 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+13:57:15.855 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:57:15.855 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:57:15.855 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:57:15.855 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 
+13:57:59.337 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:57:59.352 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:57:59.352 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+13:57:59.352 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+
+13:57:59.399 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:57:59.399 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:57:59.399 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:57:59.399 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 
+13:58:49.820 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:58:49.820 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:58:49.820 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+13:58:49.835 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+
+13:58:49.866 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:58:49.866 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:58:49.866 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:58:49.866 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 
+13:58:49.866 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+13:59:11.557 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:59:11.572 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:59:11.572 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+13:59:11.572 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+
+13:59:11.619 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+13:59:11.619 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+13:59:11.619 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+13:59:11.619 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression fdf
+13:59:11.619 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+14:03:40.503 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+14:03:40.512 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+14:03:40.514 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+14:03:40.518 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+
+14:03:40.555 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+14:03:40.555 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+14:03:40.556 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+14:03:40.556 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 
+14:03:40.556 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+14:05:38.894 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+14:05:38.910 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+14:05:38.910 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+14:05:38.910 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+
+14:05:38.957 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+14:05:38.957 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+14:07:01.309 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+14:07:01.309 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+14:07:01.309 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+14:07:01.324 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+
+14:07:01.355 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+14:07:01.355 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+14:09:08.750 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+14:09:08.766 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+14:09:08.766 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+14:09:08.766 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+
+14:09:08.812 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+14:10:41.049 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+14:10:41.049 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+14:10:41.065 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+14:10:41.065 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+
+14:10:41.096 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+14:11:28.960 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+14:11:28.976 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+14:11:28.976 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+14:11:28.976 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+
+14:11:29.022 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+14:12:28.057 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+14:12:28.057 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+14:12:28.073 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+14:12:28.073 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+
+14:12:28.120 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+14:12:45.706 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donné, une instance de la classe CalculService
+14:12:45.722 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'évalue l'addition de l'expression 1+3+4
+14:12:45.722 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le résultat 8
+14:12:45.769 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+14:12:45.769 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+14:12:45.769 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+14:12:45.769 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+14:12:45.769 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+14:13:47.657 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donné, une instance de la classe CalculService
+14:13:47.657 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'évalue l'addition de l'expression 1+3+4
+14:13:47.657 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le résultat 8
+14:13:47.719 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+14:13:47.719 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+14:13:47.719 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+14:13:47.719 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+14:13:47.719 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+14:13:57.499 [main] INFO  dev.console.AppTest -
+
+Etant donné, un service CalculService qui retourne 35 à l'évaluation de l'expression 1+34
+14:13:57.499 [main] INFO  dev.console.AppTest -
+
+Lorsque la méthode evaluer est invoquée
+14:13:57.515 [main] INFO  dev.console.AppTest -
+
+Alors le service est invoqué avec l'expression 1+34
+14:13:57.515 [main] INFO  dev.console.AppTest -
+
+Alors dans la console, s'affiche 1+34=35
+
+14:13:57.562 [main] INFO  dev.console.App -
+
+**** Application Calculatrice ****
+14:14:31.310 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donné, une instance de la classe CalculService
+14:14:31.310 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'évalue l'addition de l'expression 1+3+4
+14:14:31.310 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le résultat 8
+14:14:31.357 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+14:14:31.357 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
+14:14:31.357 [main] INFO  dev.service.CalculServiceTest -
+
+Alors j'obtiens le resultat 8
+14:14:31.357 [main] INFO  dev.service.CalculServiceTest -
+
+Etant donn�, une instance de la classe CalculService
+14:14:31.357 [main] INFO  dev.service.CalculServiceTest -
+
+Lorsque j'�value l'addition de l'expression 1+3+4
