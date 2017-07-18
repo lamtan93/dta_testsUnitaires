@@ -50,6 +50,7 @@ public class AppTest {
 
 		String logConsole = systemOutRule.getLog();
 
+
 		assertThat(logConsole).contains("**** Application Calculatrice ****");
 
 	}
@@ -88,6 +89,15 @@ public class AppTest {
 
 		}
 
+	}
+
+	// Synthese
+	@Test
+	public void testDemarrer_ValeurSaisie_Fin() {
+		app.demarrer();
+		String console = systemOutRule.getLog();
+
+		assertThat(console.contains("Au revoir")).isTrue();
 	}
 
 }

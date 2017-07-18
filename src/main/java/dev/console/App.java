@@ -31,6 +31,18 @@ public class App {
 	public void demarrer() {
 		afficherTitre();
 
+		Scanner sc = new Scanner(System.in);
+
+		// Synthèse
+
+		LOG.info("Entrez quelques choses :");
+		String res = sc.next();
+
+		if (res.equalsIgnoreCase("Fin")) {
+			LOG.info("Au revoir");
+		}
+
+
 
 	}
 
