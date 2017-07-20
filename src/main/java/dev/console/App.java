@@ -21,34 +21,35 @@ public class App {
 
 		this.calculatrice = calculatrice;
 
-}
+	}
 
 	protected void afficherTitre() {
 		LOG.info("**** Application Calculatrice ****");
 
 	}
 
-	public void demarrer() {
+	public void demarrer() throws CalculException {
 		afficherTitre();
 
-		Scanner sc = new Scanner(System.in);
-
 		// Synthèse
+		while (true) {
+			LOG.info("Veuillez saisir une expression :");
+			String expression = scanner.next();
 
-		LOG.info("Entrez quelques choses :");
-		String res = sc.next();
-
-		if (res.equalsIgnoreCase("Fin")) {
-			LOG.info("Au revoir");
+			if (expression.equalsIgnoreCase("Fin")) {
+				LOG.info("Au revoir");
+				break;
+			} else {
+				evaluer(expression);
+			}
 		}
-
-
 
 	}
 
 	protected void evaluer(String expression) {
 		try {
-			calculatrice.additionner(expression);
+			int somme = calculatrice.additionner(expression);
+			LOG.info("{}={}", expression, somme);
 		} catch (CalculException e) {
 			LOG.info(e.getMessage());
 

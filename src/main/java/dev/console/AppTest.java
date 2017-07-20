@@ -1,6 +1,7 @@
 package dev.console;
 
 import static org.assertj.core.api.Assertions.assertThat;
+import static org.junit.contrib.java.lang.system.TextFromStandardInputStream.emptyStandardInputStream;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
@@ -11,6 +12,7 @@ import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.contrib.java.lang.system.SystemOutRule;
+import org.junit.contrib.java.lang.system.TextFromStandardInputStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -22,6 +24,9 @@ public class AppTest {
 	@Rule
 
 	public final SystemOutRule systemOutRule = new SystemOutRule().enableLog();
+
+	@Rule
+	public final TextFromStandardInputStream systemInMock = emptyStandardInputStream();
 
 	private App app;
 
@@ -73,7 +78,7 @@ public class AppTest {
 
 		verify(calculService).additionner(expression);
 
-		LOG.info("Alors dans la console, s'affiche 1+34=35" + "\n");
+		LOG.info("Alors dans la console, s'affiche le resultat attendu" + "\n");
 
 		assertThat(systemOutRule.getLog()).contains("1+34=35");
 
@@ -93,11 +98,36 @@ public class AppTest {
 
 	// Synthese
 	@Test
-	public void testDemarrer_ValeurSaisie_Fin() {
-		app.demarrer();
-		String console = systemOutRule.getLog();
+	public void testDemarrer_ValeurSaisie_Fin_etape1() throws CalculException {
 
+		app.demarrer();
+
+		String console = systemOutRule.getLog();
 		assertThat(console.contains("Au revoir")).isTrue();
+
 	}
+
+	// TODO
+	// @Test
+//	public void test_Synthese_etap2() throws CalculException {
+//
+//		// String expression = ("1+2");
+//		systemInMock.provideLines("1+2");
+//
+//		app.demarrer();
+//		when(calculService.additionner(expression)).thenReturn(3);
+//
+//		this.app.evaluer(expression);
+//
+//		LOG.info("Alors le service est invoqué avec l'expression {}", expression);
+//
+//		verify(calculService).additionner(expression);
+//
+//		LOG.info("Alors dans la console, s'affiche 1+2=3" + "\n");
+//
+//		assertThat(systemOutRule.getLog()).contains("1+2=3");
+//
+//
+//	}
 
 }
